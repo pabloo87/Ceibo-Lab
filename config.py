@@ -1,0 +1,7 @@
+SECONDARY_BG = '#464646'
+PRIMARY_BG = '#343434'
+
+DEFAULT_OUTPUT_FOLDER = './outputs'
+
+IMAGE_EXTENSIONS = ('jpg', 'png', 'gif')
+VIDEO_EXTENSIONS = ('mp4',)
